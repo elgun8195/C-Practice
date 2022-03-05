@@ -1,0 +1,14 @@
+C:\Users\Elgun\source\repos\Task_1\Tasklar\bin\Debug\netcoreapp3.1\Tasklar.exe
+C:\Users\Elgun\source\repos\Task_1\Tasklar\bin\Debug\netcoreapp3.1\Tasklar.deps.json
+C:\Users\Elgun\source\repos\Task_1\Tasklar\bin\Debug\netcoreapp3.1\Tasklar.runtimeconfig.json
+C:\Users\Elgun\source\repos\Task_1\Tasklar\bin\Debug\netcoreapp3.1\Tasklar.runtimeconfig.dev.json
+C:\Users\Elgun\source\repos\Task_1\Tasklar\bin\Debug\netcoreapp3.1\Tasklar.dll
+C:\Users\Elgun\source\repos\Task_1\Tasklar\bin\Debug\netcoreapp3.1\Tasklar.pdb
+C:\Users\Elgun\source\repos\Task_1\Tasklar\obj\Debug\netcoreapp3.1\Tasklar.csproj.AssemblyReference.cache
+C:\Users\Elgun\source\repos\Task_1\Tasklar\obj\Debug\netcoreapp3.1\Tasklar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elgun\source\repos\Task_1\Tasklar\obj\Debug\netcoreapp3.1\Tasklar.AssemblyInfoInputs.cache
+C:\Users\Elgun\source\repos\Task_1\Tasklar\obj\Debug\netcoreapp3.1\Tasklar.AssemblyInfo.cs
+C:\Users\Elgun\source\repos\Task_1\Tasklar\obj\Debug\netcoreapp3.1\Tasklar.csproj.CoreCompileInputs.cache
+C:\Users\Elgun\source\repos\Task_1\Tasklar\obj\Debug\netcoreapp3.1\Tasklar.dll
+C:\Users\Elgun\source\repos\Task_1\Tasklar\obj\Debug\netcoreapp3.1\Tasklar.pdb
+C:\Users\Elgun\source\repos\Task_1\Tasklar\obj\Debug\netcoreapp3.1\Tasklar.genruntimeconfig.cache
